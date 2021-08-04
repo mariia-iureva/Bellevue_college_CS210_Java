@@ -1,0 +1,3 @@
+Susan (#123 worked 31.40 hours 7.85 hours/day)
+Brad (#456 worked 36.80 hours 7.36 hours/day)
+Jennifer (#789 worked 39.50 hours 7.90 hours/day)
